@@ -61,3 +61,8 @@ $ ./gradlew jar
 ## License
 
 This software is distributed under the MIT License.
+
+
+## 为对接zabbix6,对2022年11月16日的myaaaaa-chan/Zabbix4j项目进行修改（目前仅对接获取最新数据、主机列表两个接口）：
+1、ItemGetRequest的delay等数值型字段改成String;
+2、ItemGetRequest的output改成List<String>;
