@@ -1,3 +1,6 @@
+# 注意：由于原zabbix4j团队已经于2017年不再更新该组件，本人也只是临时用到对个别接口适配zabbix6,本项目仅供参考，不可做生产使用。 
+另有发现一个demo组件，更加轻量化，理论上适配zabbix各个版本， 各位可以移步参考：https://gitee.com/cicdi/Zabbix-Api?_from=gitee_search
+
 #Zabbix4j
 
 Zabbix4j is a Zabbix API library for the Java language.
